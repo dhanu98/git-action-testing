@@ -33,4 +33,4 @@ jobs:
           context: .  # '.' is the root of the repository
           dockerfile: ./path/to/your/Dockerfile  # Update this with the path to your Dockerfile if it's not in the root directory
           push: true
-          tags: dhananjaytupe/my-app:latest  # Change 'my-app' to your app's name
+          tags: dhananjaytupe/my-app2:latest  # Change 'my-app' to your app's name
